@@ -18,6 +18,6 @@ This is an application where computer games are listed, their details can be vie
 
 ![Simulator Screen Shot - iPhone8 - 2022-10-09 at 23 23 26](https://user-images.githubusercontent.com/81181802/194778717-be03a49f-dc4e-41af-990d-cb0e60d1e7cf.png)
 
-## Search Bar
+## Searching
 
 ![Simulator Screen Shot - iPhone8 - 2022-10-09 at 23 25 36](https://user-images.githubusercontent.com/81181802/194778734-d384ed08-256c-4f6d-b81c-0a8dbc74b57e.png)
